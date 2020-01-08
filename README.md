@@ -7,4 +7,4 @@ A custom made Interpreter for a language called the duck Language.
 -Assisgn Variables.
 -Evalute boolean expressions.
 
-Many More...
+Final Project for the Sofrware Design Class.
